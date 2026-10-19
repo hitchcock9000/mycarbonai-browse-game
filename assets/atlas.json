@@ -1,0 +1,542 @@
+{
+  "source": "/Users/nim/Downloads/ChatGPT Image 17 de mai. de 2026, 21_21_30.png",
+  "image_size": {
+    "width": 1536,
+    "height": 1024
+  },
+  "sprites": {
+    "hero_idle_01": {
+      "file": "hero_idle_01.png",
+      "source_rect": {
+        "x": 100,
+        "y": 105,
+        "width": 145,
+        "height": 170
+      },
+      "trimmed_size": {
+        "width": 145,
+        "height": 165
+      }
+    },
+    "hero_idle_02": {
+      "file": "hero_idle_02.png",
+      "source_rect": {
+        "x": 278,
+        "y": 104,
+        "width": 145,
+        "height": 170
+      },
+      "trimmed_size": {
+        "width": 135,
+        "height": 164
+      }
+    },
+    "hero_idle_03": {
+      "file": "hero_idle_03.png",
+      "source_rect": {
+        "x": 440,
+        "y": 104,
+        "width": 145,
+        "height": 170
+      },
+      "trimmed_size": {
+        "width": 138,
+        "height": 165
+      }
+    },
+    "hero_idle_04_side": {
+      "file": "hero_idle_04_side.png",
+      "source_rect": {
+        "x": 605,
+        "y": 103,
+        "width": 138,
+        "height": 171
+      },
+      "trimmed_size": {
+        "width": 126,
+        "height": 165
+      }
+    },
+    "hero_idle_05": {
+      "file": "hero_idle_05.png",
+      "source_rect": {
+        "x": 760,
+        "y": 104,
+        "width": 145,
+        "height": 170
+      },
+      "trimmed_size": {
+        "width": 117,
+        "height": 165
+      }
+    },
+    "hero_idle_06": {
+      "file": "hero_idle_06.png",
+      "source_rect": {
+        "x": 912,
+        "y": 104,
+        "width": 145,
+        "height": 170
+      },
+      "trimmed_size": {
+        "width": 112,
+        "height": 164
+      }
+    },
+    "hero_run_01": {
+      "file": "hero_run_01.png",
+      "source_rect": {
+        "x": 72,
+        "y": 312,
+        "width": 190,
+        "height": 150
+      },
+      "trimmed_size": {
+        "width": 168,
+        "height": 143
+      }
+    },
+    "hero_run_02": {
+      "file": "hero_run_02.png",
+      "source_rect": {
+        "x": 255,
+        "y": 311,
+        "width": 190,
+        "height": 151
+      },
+      "trimmed_size": {
+        "width": 190,
+        "height": 143
+      }
+    },
+    "hero_run_03": {
+      "file": "hero_run_03.png",
+      "source_rect": {
+        "x": 425,
+        "y": 312,
+        "width": 190,
+        "height": 150
+      },
+      "trimmed_size": {
+        "width": 175,
+        "height": 143
+      }
+    },
+    "hero_run_04": {
+      "file": "hero_run_04.png",
+      "source_rect": {
+        "x": 615,
+        "y": 312,
+        "width": 190,
+        "height": 150
+      },
+      "trimmed_size": {
+        "width": 172,
+        "height": 142
+      }
+    },
+    "hero_run_05": {
+      "file": "hero_run_05.png",
+      "source_rect": {
+        "x": 800,
+        "y": 312,
+        "width": 190,
+        "height": 150
+      },
+      "trimmed_size": {
+        "width": 190,
+        "height": 142
+      }
+    },
+    "hero_jump_01": {
+      "file": "hero_jump_01.png",
+      "source_rect": {
+        "x": 70,
+        "y": 483,
+        "width": 175,
+        "height": 142
+      },
+      "trimmed_size": {
+        "width": 175,
+        "height": 142
+      }
+    },
+    "hero_jump_02": {
+      "file": "hero_jump_02.png",
+      "source_rect": {
+        "x": 268,
+        "y": 467,
+        "width": 170,
+        "height": 148
+      },
+      "trimmed_size": {
+        "width": 136,
+        "height": 133
+      }
+    },
+    "hero_jump_03": {
+      "file": "hero_jump_03.png",
+      "source_rect": {
+        "x": 452,
+        "y": 450,
+        "width": 175,
+        "height": 163
+      },
+      "trimmed_size": {
+        "width": 175,
+        "height": 158
+      }
+    },
+    "hero_jump_04": {
+      "file": "hero_jump_04.png",
+      "source_rect": {
+        "x": 645,
+        "y": 484,
+        "width": 168,
+        "height": 139
+      },
+      "trimmed_size": {
+        "width": 121,
+        "height": 130
+      }
+    },
+    "hero_jump_05": {
+      "file": "hero_jump_05.png",
+      "source_rect": {
+        "x": 842,
+        "y": 485,
+        "width": 168,
+        "height": 138
+      },
+      "trimmed_size": {
+        "width": 133,
+        "height": 133
+      }
+    },
+    "hero_scan_01": {
+      "file": "hero_scan_01.png",
+      "source_rect": {
+        "x": 56,
+        "y": 657,
+        "width": 270,
+        "height": 144
+      },
+      "trimmed_size": {
+        "width": 270,
+        "height": 144
+      }
+    },
+    "hero_scan_02": {
+      "file": "hero_scan_02.png",
+      "source_rect": {
+        "x": 342,
+        "y": 646,
+        "width": 190,
+        "height": 152
+      },
+      "trimmed_size": {
+        "width": 190,
+        "height": 143
+      }
+    },
+    "hero_collect_01": {
+      "file": "hero_collect_01.png",
+      "source_rect": {
+        "x": 584,
+        "y": 652,
+        "width": 190,
+        "height": 146
+      },
+      "trimmed_size": {
+        "width": 190,
+        "height": 136
+      }
+    },
+    "hero_collect_02": {
+      "file": "hero_collect_02.png",
+      "source_rect": {
+        "x": 816,
+        "y": 652,
+        "width": 194,
+        "height": 146
+      },
+      "trimmed_size": {
+        "width": 194,
+        "height": 146
+      }
+    },
+    "enemy_slime_small": {
+      "file": "enemy_slime_small.png",
+      "source_rect": {
+        "x": 1116,
+        "y": 174,
+        "width": 135,
+        "height": 142
+      },
+      "trimmed_size": {
+        "width": 135,
+        "height": 135
+      }
+    },
+    "enemy_slime_mid": {
+      "file": "enemy_slime_mid.png",
+      "source_rect": {
+        "x": 1260,
+        "y": 164,
+        "width": 140,
+        "height": 152
+      },
+      "trimmed_size": {
+        "width": 140,
+        "height": 152
+      }
+    },
+    "enemy_slime_smoke": {
+      "file": "enemy_slime_smoke.png",
+      "source_rect": {
+        "x": 1400,
+        "y": 125,
+        "width": 120,
+        "height": 200
+      },
+      "trimmed_size": {
+        "width": 110,
+        "height": 196
+      }
+    },
+    "collectible_coin": {
+      "file": "collectible_coin.png",
+      "source_rect": {
+        "x": 1115,
+        "y": 405,
+        "width": 125,
+        "height": 125
+      },
+      "trimmed_size": {
+        "width": 115,
+        "height": 105
+      }
+    },
+    "collectible_molecule": {
+      "file": "collectible_molecule.png",
+      "source_rect": {
+        "x": 1285,
+        "y": 405,
+        "width": 120,
+        "height": 125
+      },
+      "trimmed_size": {
+        "width": 120,
+        "height": 91
+      }
+    },
+    "collectible_heart": {
+      "file": "collectible_heart.png",
+      "source_rect": {
+        "x": 1400,
+        "y": 407,
+        "width": 120,
+        "height": 125
+      },
+      "trimmed_size": {
+        "width": 120,
+        "height": 125
+      }
+    },
+    "checkpoint_terminal": {
+      "file": "checkpoint_terminal.png",
+      "source_rect": {
+        "x": 1116,
+        "y": 607,
+        "width": 150,
+        "height": 170
+      },
+      "trimmed_size": {
+        "width": 148,
+        "height": 170
+      }
+    },
+    "checkpoint_flag": {
+      "file": "checkpoint_flag.png",
+      "source_rect": {
+        "x": 1330,
+        "y": 616,
+        "width": 170,
+        "height": 158
+      },
+      "trimmed_size": {
+        "width": 150,
+        "height": 158
+      }
+    },
+    "terrain_grass_block": {
+      "file": "terrain_grass_block.png",
+      "source_rect": {
+        "x": 34,
+        "y": 890,
+        "width": 120,
+        "height": 100
+      },
+      "trimmed_size": {
+        "width": 120,
+        "height": 100
+      }
+    },
+    "terrain_sprout_block": {
+      "file": "terrain_sprout_block.png",
+      "source_rect": {
+        "x": 160,
+        "y": 870,
+        "width": 120,
+        "height": 120
+      },
+      "trimmed_size": {
+        "width": 120,
+        "height": 120
+      }
+    },
+    "terrain_solar_block": {
+      "file": "terrain_solar_block.png",
+      "source_rect": {
+        "x": 284,
+        "y": 852,
+        "width": 150,
+        "height": 138
+      },
+      "trimmed_size": {
+        "width": 150,
+        "height": 131
+      }
+    },
+    "terrain_wind_block": {
+      "file": "terrain_wind_block.png",
+      "source_rect": {
+        "x": 438,
+        "y": 807,
+        "width": 120,
+        "height": 184
+      },
+      "trimmed_size": {
+        "width": 120,
+        "height": 184
+      }
+    },
+    "terrain_waterfall_block": {
+      "file": "terrain_waterfall_block.png",
+      "source_rect": {
+        "x": 560,
+        "y": 872,
+        "width": 120,
+        "height": 118
+      },
+      "trimmed_size": {
+        "width": 120,
+        "height": 118
+      }
+    },
+    "terrain_concrete_block": {
+      "file": "terrain_concrete_block.png",
+      "source_rect": {
+        "x": 694,
+        "y": 895,
+        "width": 120,
+        "height": 95
+      },
+      "trimmed_size": {
+        "width": 120,
+        "height": 95
+      }
+    },
+    "terrain_pipe_block": {
+      "file": "terrain_pipe_block.png",
+      "source_rect": {
+        "x": 814,
+        "y": 855,
+        "width": 120,
+        "height": 136
+      },
+      "trimmed_size": {
+        "width": 120,
+        "height": 136
+      }
+    },
+    "terrain_factory_block": {
+      "file": "terrain_factory_block.png",
+      "source_rect": {
+        "x": 934,
+        "y": 798,
+        "width": 125,
+        "height": 193
+      },
+      "trimmed_size": {
+        "width": 125,
+        "height": 193
+      }
+    },
+    "terrain_hazard_pipe": {
+      "file": "terrain_hazard_pipe.png",
+      "source_rect": {
+        "x": 1058,
+        "y": 884,
+        "width": 95,
+        "height": 106
+      },
+      "trimmed_size": {
+        "width": 95,
+        "height": 106
+      }
+    },
+    "platform_large": {
+      "file": "platform_large.png",
+      "source_rect": {
+        "x": 1174,
+        "y": 857,
+        "width": 310,
+        "height": 80
+      },
+      "trimmed_size": {
+        "width": 310,
+        "height": 80
+      }
+    },
+    "platform_hover_01": {
+      "file": "platform_hover_01.png",
+      "source_rect": {
+        "x": 1188,
+        "y": 946,
+        "width": 94,
+        "height": 50
+      },
+      "trimmed_size": {
+        "width": 94,
+        "height": 50
+      }
+    },
+    "platform_hover_02": {
+      "file": "platform_hover_02.png",
+      "source_rect": {
+        "x": 1294,
+        "y": 946,
+        "width": 94,
+        "height": 50
+      },
+      "trimmed_size": {
+        "width": 94,
+        "height": 50
+      }
+    },
+    "platform_hover_03": {
+      "file": "platform_hover_03.png",
+      "source_rect": {
+        "x": 1400,
+        "y": 946,
+        "width": 94,
+        "height": 50
+      },
+      "trimmed_size": {
+        "width": 94,
+        "height": 50
+      }
+    }
+  }
+}

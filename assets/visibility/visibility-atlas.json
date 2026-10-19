@@ -1,0 +1,386 @@
+{
+  "source": "/Users/nim/Downloads/ChatGPT Image 17 de mai. de 2026, 22_16_43.png",
+  "image_size": {
+    "width": 1536,
+    "height": 1024
+  },
+  "sprites": {
+    "signal_walker_key_art": {
+      "file": "signal_walker_key_art.png",
+      "source_rect": {
+        "x": 190,
+        "y": 20,
+        "width": 560,
+        "height": 805
+      },
+      "trimmed_size": {
+        "width": 560,
+        "height": 793
+      }
+    },
+    "nora_orb": {
+      "file": "nora_orb.png",
+      "source_rect": {
+        "x": 612,
+        "y": 82,
+        "width": 92,
+        "height": 110
+      },
+      "trimmed_size": {
+        "width": 89,
+        "height": 107
+      }
+    },
+    "signal_idle": {
+      "file": "signal_idle.png",
+      "source_rect": {
+        "x": 770,
+        "y": 475,
+        "width": 100,
+        "height": 137
+      },
+      "trimmed_size": {
+        "width": 99,
+        "height": 137
+      }
+    },
+    "signal_run": {
+      "file": "signal_run.png",
+      "source_rect": {
+        "x": 910,
+        "y": 474,
+        "width": 154,
+        "height": 132
+      },
+      "trimmed_size": {
+        "width": 154,
+        "height": 132
+      }
+    },
+    "signal_jump": {
+      "file": "signal_jump.png",
+      "source_rect": {
+        "x": 1065,
+        "y": 463,
+        "width": 150,
+        "height": 144
+      },
+      "trimmed_size": {
+        "width": 150,
+        "height": 143
+      }
+    },
+    "signal_scan": {
+      "file": "signal_scan.png",
+      "source_rect": {
+        "x": 1238,
+        "y": 464,
+        "width": 146,
+        "height": 142
+      },
+      "trimmed_size": {
+        "width": 146,
+        "height": 135
+      }
+    },
+    "signal_connect": {
+      "file": "signal_connect.png",
+      "source_rect": {
+        "x": 1390,
+        "y": 468,
+        "width": 128,
+        "height": 136
+      },
+      "trimmed_size": {
+        "width": 109,
+        "height": 132
+      }
+    },
+    "turn_front": {
+      "file": "turn_front.png",
+      "source_rect": {
+        "x": 780,
+        "y": 66,
+        "width": 98,
+        "height": 220
+      },
+      "trimmed_size": {
+        "width": 98,
+        "height": 220
+      }
+    },
+    "turn_side": {
+      "file": "turn_side.png",
+      "source_rect": {
+        "x": 944,
+        "y": 62,
+        "width": 92,
+        "height": 220
+      },
+      "trimmed_size": {
+        "width": 92,
+        "height": 220
+      }
+    },
+    "turn_back": {
+      "file": "turn_back.png",
+      "source_rect": {
+        "x": 1114,
+        "y": 58,
+        "width": 110,
+        "height": 230
+      },
+      "trimmed_size": {
+        "width": 105,
+        "height": 230
+      }
+    },
+    "turn_three_quarter": {
+      "file": "turn_three_quarter.png",
+      "source_rect": {
+        "x": 1275,
+        "y": 58,
+        "width": 112,
+        "height": 230
+      },
+      "trimmed_size": {
+        "width": 94,
+        "height": 230
+      }
+    },
+    "enemy_carbon_slime": {
+      "file": "enemy_carbon_slime.png",
+      "source_rect": {
+        "x": 770,
+        "y": 650,
+        "width": 110,
+        "height": 140
+      },
+      "trimmed_size": {
+        "width": 110,
+        "height": 140
+      }
+    },
+    "enemy_data_parasite": {
+      "file": "enemy_data_parasite.png",
+      "source_rect": {
+        "x": 927,
+        "y": 658,
+        "width": 104,
+        "height": 128
+      },
+      "trimmed_size": {
+        "width": 91,
+        "height": 121
+      }
+    },
+    "enemy_leak_node": {
+      "file": "enemy_leak_node.png",
+      "source_rect": {
+        "x": 1064,
+        "y": 650,
+        "width": 104,
+        "height": 140
+      },
+      "trimmed_size": {
+        "width": 104,
+        "height": 140
+      }
+    },
+    "collect_carbon_node": {
+      "file": "collect_carbon_node.png",
+      "source_rect": {
+        "x": 1178,
+        "y": 696,
+        "width": 74,
+        "height": 74
+      },
+      "trimmed_size": {
+        "width": 65,
+        "height": 66
+      }
+    },
+    "collect_biodiversity_seed": {
+      "file": "collect_biodiversity_seed.png",
+      "source_rect": {
+        "x": 1282,
+        "y": 690,
+        "width": 78,
+        "height": 82
+      },
+      "trimmed_size": {
+        "width": 78,
+        "height": 72
+      }
+    },
+    "collect_audit_fragment": {
+      "file": "collect_audit_fragment.png",
+      "source_rect": {
+        "x": 1381,
+        "y": 690,
+        "width": 74,
+        "height": 86
+      },
+      "trimmed_size": {
+        "width": 74,
+        "height": 86
+      }
+    },
+    "collect_scope3_relic": {
+      "file": "collect_scope3_relic.png",
+      "source_rect": {
+        "x": 1484,
+        "y": 694,
+        "width": 78,
+        "height": 78
+      },
+      "trimmed_size": {
+        "width": 9,
+        "height": 48
+      }
+    },
+    "terrain_regen_grass": {
+      "file": "terrain_regen_grass.png",
+      "source_rect": {
+        "x": 238,
+        "y": 870,
+        "width": 104,
+        "height": 118
+      },
+      "trimmed_size": {
+        "width": 104,
+        "height": 118
+      }
+    },
+    "terrain_regen_solar": {
+      "file": "terrain_regen_solar.png",
+      "source_rect": {
+        "x": 352,
+        "y": 876,
+        "width": 116,
+        "height": 112
+      },
+      "trimmed_size": {
+        "width": 110,
+        "height": 112
+      }
+    },
+    "terrain_regen_tree": {
+      "file": "terrain_regen_tree.png",
+      "source_rect": {
+        "x": 484,
+        "y": 866,
+        "width": 108,
+        "height": 122
+      },
+      "trimmed_size": {
+        "width": 108,
+        "height": 122
+      }
+    },
+    "terrain_regen_water": {
+      "file": "terrain_regen_water.png",
+      "source_rect": {
+        "x": 601,
+        "y": 856,
+        "width": 104,
+        "height": 134
+      },
+      "trimmed_size": {
+        "width": 87,
+        "height": 134
+      }
+    },
+    "terrain_industrial_cracked": {
+      "file": "terrain_industrial_cracked.png",
+      "source_rect": {
+        "x": 707,
+        "y": 876,
+        "width": 102,
+        "height": 112
+      },
+      "trimmed_size": {
+        "width": 98,
+        "height": 104
+      }
+    },
+    "terrain_industrial_pipe": {
+      "file": "terrain_industrial_pipe.png",
+      "source_rect": {
+        "x": 822,
+        "y": 876,
+        "width": 104,
+        "height": 112
+      },
+      "trimmed_size": {
+        "width": 104,
+        "height": 111
+      }
+    },
+    "terrain_industrial_block": {
+      "file": "terrain_industrial_block.png",
+      "source_rect": {
+        "x": 940,
+        "y": 876,
+        "width": 104,
+        "height": 112
+      },
+      "trimmed_size": {
+        "width": 104,
+        "height": 104
+      }
+    },
+    "terrain_industrial_leak": {
+      "file": "terrain_industrial_leak.png",
+      "source_rect": {
+        "x": 1049,
+        "y": 850,
+        "width": 110,
+        "height": 140
+      },
+      "trimmed_size": {
+        "width": 104,
+        "height": 140
+      }
+    },
+    "object_repair_terminal": {
+      "file": "object_repair_terminal.png",
+      "source_rect": {
+        "x": 1180,
+        "y": 874,
+        "width": 100,
+        "height": 118
+      },
+      "trimmed_size": {
+        "width": 100,
+        "height": 118
+      }
+    },
+    "object_energy_tower": {
+      "file": "object_energy_tower.png",
+      "source_rect": {
+        "x": 1292,
+        "y": 852,
+        "width": 100,
+        "height": 140
+      },
+      "trimmed_size": {
+        "width": 100,
+        "height": 124
+      }
+    },
+    "object_checkpoint_flag": {
+      "file": "object_checkpoint_flag.png",
+      "source_rect": {
+        "x": 1412,
+        "y": 878,
+        "width": 100,
+        "height": 110
+      },
+      "trimmed_size": {
+        "width": 82,
+        "height": 109
+      }
+    }
+  }
+}
